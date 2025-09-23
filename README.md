@@ -13,3 +13,4 @@ A continuación introduce tu nombre y apellidos y usuario de gitHub
 esto es un conflicto
 *Raul Plaza Chatulani - rplacha737
 *Alejandro Liñán Tagliaferri - alestagli919
+*Ricardo Sánchez Zaragoza - Ricardo-andrajo
