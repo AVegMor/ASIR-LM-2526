@@ -12,4 +12,4 @@ A continuación introduce tu nombre y apellidos y usuario de gitHub
 *Aitor Jerez Clemente - Kill4Infinity
 esto es un conflicto
 *Raul Plaza Chatulani - rplacha737
-
+*Alejandro Liñán Tagliaferri - alestagli919
