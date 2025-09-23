@@ -7,3 +7,4 @@ A continuación introduce tu nombre y apellidos y usuario de gitHub
 *Carmen Calvo Verdaguer - carmen-cv 
 *Juan Antonio Ruiz Gómez - Juani39007
 *María Ordóñez López - mordlop
+*Raul Plaza Chatulani - rplacha737
