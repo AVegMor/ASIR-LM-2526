@@ -2,3 +2,4 @@
 
 A continuación introduce tu nombre y apellidos y usuario de gitHub
 Alicia Vega Moreno - AVegMor
+Jose Carlos Bueno Gálvez - Josecbueno
